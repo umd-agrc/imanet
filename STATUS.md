@@ -37,10 +37,5 @@ This is where we will keep a  list of Future, In-progress projects, and Complete
 
 
 
-<style>
-  .markdown-body table td {
-    font-size: 5px !important;
-  }
-</style>
-imanet uranet we all are nets, we fly our drones like a corvette.
+imanet uranet we all are nets, we fly our drones like a corvette.:car:
 
